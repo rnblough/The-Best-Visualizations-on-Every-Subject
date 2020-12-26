@@ -8,6 +8,10 @@ History
 
 Math
 - Byrne's Euclid: The First Six Books of the Elements of Euclid With Coloured Diagrams and Symbols: https://www.c82.net/euclid/
+- An Interactive Introduction to Fourier Transforms: http://www.jezzamon.com/fourier/
+- Better Explained: https://betterexplained.com/
+- Jason Davies: Math and Cartography: https://www.jasondavies.com/
+- Bit-player: "An amateur’s outlook on computation and mathematics": http://bit-player.org/
 
 Economics
 - The Observatory of Economic Complexity: https://oec.world/
